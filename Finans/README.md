@@ -1,6 +1,6 @@
 ## 💻 Sobre
 
-:speech_balloon: Repositório contendo projetos simples de Frontend e desenvolvimento web. 
+:speech_balloon: Landing page de um site de finanças. 
 
 <br>
 
@@ -12,6 +12,10 @@
 
 <br>
 
-## 💜 Agradecimentos
+## 🛠 Tecnologias
 
-Obrigado aos instrutures Jorge Sant Ana e Jamilton Damasceno, responsáveis pelo curso [Desenvolvimento Web Completo 2021](https://www.udemy.com/course/web-completo/) por disponibilizar esse conteúdo sensacional 🚀.
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Bootstrap](https://getbootstrap.com/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
