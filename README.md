@@ -6,6 +6,8 @@
 
 ## 🎨 Layout
 
+<br>
+
 :rocket: Projeto 1 - Landing Page Finans
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
