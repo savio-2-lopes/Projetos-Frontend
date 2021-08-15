@@ -1,6 +1,6 @@
 ## 💻 Sobre
 
-:speech_balloon: Repositório contendo projetos simples de Frontend e desenvolvimento web. 
+:speech_balloon: Repositório contendo projetos simples de Frontend e desenvolvimento web.
 
 <br>
 
