@@ -1,13 +1,13 @@
 ## 💻 Sobre
 
-:speech_balloon: Landing page de um site de finanças. 
+:speech_balloon: Landing page do site do Spotify. 
 
 <br>
 
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="projectWeb" title="#projectWeb" src="./img/1.gif" width="800px">
+  <img alt="projectWeb" title="#projectWeb" src="./img/2.gif" width="800px">
 </p>
 
 <br>
