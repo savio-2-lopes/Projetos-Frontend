@@ -1,34 +1,47 @@
 /* Corpo */
 
+:root {
+  --white: #fff;
+  --black: black;
+  --black-100: rgba(0, 0, 0, 0.6);
+  --green: #9bf0e1;
+  --pupple: #7c26f8;
+  --pupple-100: #6207e3;
+  --gray: rgba(255,255,255, 0.5);
+  --red: #ff4169
+  --body-font: Arial, Helvetica, sans-serif 
+}
+
 html, 
 body, 
-#home {
+.home {
   height: 100%;
   overflow-x: hidden;
 }
 
+
 body {
   background: url(../img/dash.png),
   url(../img/noise.png),
-  linear-gradient(50deg, #ff4169,#7c26f8);
+  linear-gradient(50deg, var(--red), var(--pupple));
   background-attachment: fixed;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--body-font);
 }
 
 /* Navegação */
 
 nav.navbar-transparent {
   padding: 15px 0px;
-  background: rgba(0, 0, 0, 0.6);
+  background: var(--black-100);
 }
 
 
 .navbar-light .navbar-nav .nav-link {
-	color: white;
+	color: var(--white);
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
-	color: #9bf0e1;
+	color: var(--green);
 }
 
 .navbar-light .navbar-toggler {
@@ -58,21 +71,21 @@ nav.navbar-transparent {
 }
 
 .btn-pupple {
-	background: #7c25f8;
+	background: var(--pupple);
 }
 
 .btn-pupple:hover {
-	background: #6207e3;
-	color: white;
+	background: var(--pupple-100);
+	color: var(--white);
 }
 
 .btn-white {
-	border: 2px solid white;
+	border: 2px solid var(--white);
 }
 
 .btn-white:hover {
-	background-color: white;
-	color: black;
+	background-color: var(--white);
+	color: var(--black);
 }
 
 .social-button {
