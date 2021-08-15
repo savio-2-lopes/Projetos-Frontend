@@ -2,13 +2,14 @@
 
 :root {
   --white: #fff;
-  --black: black;
+  --black: #000;
   --black-100: rgba(0, 0, 0, 0.6);
   --green: #9bf0e1;
   --pupple: #7c26f8;
   --pupple-100: #6207e3;
   --gray: rgba(255,255,255, 0.5);
-  --red: #ff4169
+  --gray-100: #919496;
+  --red: #ff4169;
   --body-font: Arial, Helvetica, sans-serif 
 }
 
@@ -106,23 +107,23 @@ nav.navbar-transparent {
 }
 
 #servicos {
-	background: white;
+	background: var(--white);
 }
 
 #recursos {
-	color: white;
+	color: var(--white);
 }
 
 #servicos h2, h3 {
-	color: #7c25f8;
+	color: var(var(--pupple));
 }
 
 #recursos h2 {
-	color: white;
+	color: var(--white);
 }
 
 #recursos h3 {
-	color: #9bf0e1;
+	color: var(--green);
 }
 
 .albuns {
@@ -130,8 +131,8 @@ nav.navbar-transparent {
 }
 
 .rotate {
-	-ms-transform: rotate(30deg); /* IE 9 */
-  -webkit-transform: rotate(30deg); /* Chrome, Safari, Opera */
+	-ms-transform: rotate(30deg);
+  -webkit-transform: rotate(30deg); 
   transform: rotate(30deg);
 	padding-left: 80px;
 }
@@ -139,13 +140,13 @@ nav.navbar-transparent {
 /* Footer */
 
 footer {
-	background: #000;
+	background: var(--black);
 	padding: 50px 0px 20px 0px;
 	position: relative;
 }
 
 footer h4 {
-	color: #919496;
+	color: var(--gray-100);
 	font-size: 0.8em;
 	text-transform: uppercase;
 }
@@ -156,7 +157,7 @@ footer .navbar-nav a {
 }
 
 footer .navbar-nav a:hover {
-	color: #9bf0e1;
+	color: var(--green);
 	text-decoration: none;
 }
 
@@ -175,7 +176,7 @@ h1 {
 	font-weight: 900;
 	letter-spacing: -0.05em;
 	margin-bottom: 50px;
-	color: white;
+	color: var(--white);
 }
 
 h2 {
