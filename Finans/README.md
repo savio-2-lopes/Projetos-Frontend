@@ -7,7 +7,7 @@
 ## 🎨 Layout
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="projectWeb" title="#projectWeb" src="./assets/1.gif" width="800px">
+  <img alt="projectWeb" title="#projectWeb" src="./img/1.gif" width="800px">
 </p>
 
 <br>
