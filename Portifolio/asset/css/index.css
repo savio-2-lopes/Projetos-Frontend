@@ -27,8 +27,12 @@ a {
   margin-right: 30px;
 }
 
-a::after {
-    content: "x";
+a::before {
+    content: "";
+    background-color: #725A70;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px
 }
 
 span {
