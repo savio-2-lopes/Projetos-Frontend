@@ -28,8 +28,9 @@ a {
 }
 
 .dot::before {
-    content: "-";
+    content: ".";
     background-color: #F25A70;
+    color: #F25A70;
     width: 20px;
     height: 210px;
     margin-right: 10px
