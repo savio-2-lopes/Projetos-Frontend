@@ -15,4 +15,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 💜 Agradecimentos
 
-Obrigado ao instrutor Marco Bruno, responsável pelo curso [Curso HTML e CSS Feliz](https://www.youtube.com/playlist?list=PLirko8T4cEmzrH3jIJi7R7ufeqcpXYaLa/) por disponibilizar esse conteúdo sensacional 🚀.
+Obrigado ao instrutor Marco Bruno, responsável pelo [Curso HTML e CSS Feliz](https://www.youtube.com/playlist?list=PLirko8T4cEmzrH3jIJi7R7ufeqcpXYaLa/) por disponibilizar esse conteúdo sensacional 🚀.
