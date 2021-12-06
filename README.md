@@ -36,4 +36,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 💜 Agradecimentos
 
-Obrigado aos instrutores Jorge Sant Ana e Jamilton Damasceno, responsáveis pelo curso [Desenvolvimento Web Completo 2021](https://www.udemy.com/course/web-completo/) por disponibilizar esse conteúdo sensacional 🚀.
+Obrigado aos instrutores Jorge Sant Ana e Jamilton Damasceno, responsáveis pelo curso [Desenvolvimento Web Completo 2021](https://www.udemy.com/course/web-completo/) e ao instrutor Marco Bruno, responsável pelo curso [Curso HTML e CSS Feliz](https://www.youtube.com/playlist?list=PLirko8T4cEmzrH3jIJi7R7ufeqcpXYaLa/) por disponibilizar esse conteúdo sensacional 🚀.
