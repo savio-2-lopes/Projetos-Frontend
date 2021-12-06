@@ -27,19 +27,12 @@ a {
   margin-right: 30px;
 }
 
-a::before {
-    content: "";
-    background-color: #725A70;
-    width: 10px;
-    height: 10px;
+.dot::before {
+    content: "-";
+    background-color: #F25A70;
+    width: 20px;
+    height: 210px;
     margin-right: 10px
-}
-
-span {
-  background-color: #F25a70;
-  width: 10px;
-  height: 10px;
-  margin-right: 10px;
 }
 
 #button {
